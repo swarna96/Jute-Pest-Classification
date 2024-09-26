@@ -12,7 +12,7 @@ The study utilizes several deep learning architectures, including Convolutional 
 - **ResNet50-Random Forest Hybrid:** Combines deep feature extraction with traditional machine learning, optimizing computational efficiency.
 - **ResNet-ViT Hybrid:** Integrates convolutional and self-attention mechanisms for robust performance.
 ## Dataset
-The dataset is sourced from the UCI Machine Learning Repository and consists of images categorized into 17 different jute pest species. The dataset is divided into training, validation, and test sets to ensure robust model evaluation.
+The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/920/jute+pest+dataset) and consists of images categorized into 17 different jute pest species. The dataset is divided into training, validation, and test sets to ensure robust model evaluation.
 
 ## Methodology
 - **Data Preprocessing:** Includes resizing, normalization, and augmentation techniques to enhance model robustness.
